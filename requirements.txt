@@ -3,4 +3,4 @@ feedparser
 numpy
 pandas
 yfinance
-https://github.com/twopirllc/pandas-ta/archive/development.zip
+https://github.com/twopirllc/pandas-ta/archive/refs/heads/main.zip
