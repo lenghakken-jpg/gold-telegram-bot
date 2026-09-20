@@ -1,0 +1,6 @@
+requests
+feedparser
+numpy
+pandas
+pandas-ta
+yfinance
